@@ -1,0 +1,10 @@
+.link-status {
+    text-decoration: none;
+    color: #495057;
+}
+
+.link-status:hover {
+    text-decoration: underline;
+    text-decoration-color: #495057;
+    cursor: pointer;
+}
